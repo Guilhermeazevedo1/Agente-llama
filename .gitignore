@@ -1,0 +1,17 @@
+# Ambientes e Variáveis
+.venv
+.env
+
+# Arquivos Python
+__pycache__/
+*.pyc
+
+# Arquivos de Teste (pode variar)
+.pytest_cache/
+
+# Arquivos do IDE (VS Code)
+.vscode/
+
+# Arquivos do Streamlit
+# (Opcional, se Streamlit estiver gerando caches grandes)
+.streamlit/
